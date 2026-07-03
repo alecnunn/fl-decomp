@@ -57,7 +57,7 @@
     {
       "start": 116854784,
       "end": 116854794,
-      "name": "_sub_6F71000",
+      "name": "_inv_sqrt_dynamic_init",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -67,7 +67,7 @@
     {
       "start": 116854800,
       "end": 116854871,
-      "name": "_sub_6F71010",
+      "name": "_inv_sqrt_build_table",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -77,7 +77,7 @@
     {
       "start": 116854880,
       "end": 116854892,
-      "name": "_sub_6F71060",
+      "name": "_inv_sqrt_register_atexit",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -87,7 +87,7 @@
     {
       "start": 116854896,
       "end": 116854917,
-      "name": "_sub_6F71070",
+      "name": "_inv_sqrt_atexit_thunk",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -137,7 +137,7 @@
     {
       "start": 116855280,
       "end": 116855678,
-      "name": "_sub_6F711F0@12",
+      "name": "_x86MathEngine_inverse@12",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -147,7 +147,7 @@
     {
       "start": 116855680,
       "end": 116856230,
-      "name": "_sub_6F71380@16",
+      "name": "_x86MathEngine_general_inverse@16",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -157,7 +157,7 @@
     {
       "start": 116856240,
       "end": 116856341,
-      "name": "_sub_6F715B0@16",
+      "name": "_x86MathEngine_scale@16",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -167,7 +167,7 @@
     {
       "start": 116856352,
       "end": 116856421,
-      "name": "_sub_6F71620@8",
+      "name": "_x86MathEngine_det@8",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -177,7 +177,7 @@
     {
       "start": 116856432,
       "end": 116856548,
-      "name": "_sub_6F71670@16",
+      "name": "_x86MathEngine_mul_matrix@16",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -187,7 +187,7 @@
     {
       "start": 116856560,
       "end": 116856878,
-      "name": "_sub_6F716F0@16",
+      "name": "_x86MathEngine_mul_transform@16",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -197,7 +197,7 @@
     {
       "start": 116856880,
       "end": 116856967,
-      "name": "_sub_6F71830@16",
+      "name": "_x86MathEngine_transform_vector@16",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -207,7 +207,7 @@
     {
       "start": 116856976,
       "end": 116857072,
-      "name": "sub_6F71890",
+      "name": "_x86MathEngine_transform_point@16",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -217,7 +217,7 @@
     {
       "start": 116857072,
       "end": 116857159,
-      "name": "sub_6F718F0",
+      "name": "_x86MathEngine_transform_transpose@16",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -227,7 +227,7 @@
     {
       "start": 116857168,
       "end": 116857264,
-      "name": "sub_6F71950",
+      "name": "_x86MathEngine_inverse_transform@16",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -257,7 +257,7 @@
     {
       "start": 116858208,
       "end": 116858217,
-      "name": "sub_6F71D60",
+      "name": "@sub_6F71D60@12",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -267,7 +267,7 @@
     {
       "start": 116858224,
       "end": 116858234,
-      "name": "sub_6F71D70",
+      "name": "_sub_6F71D70@4",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -277,7 +277,7 @@
     {
       "start": 116858240,
       "end": 116858253,
-      "name": "sub_6F71D80",
+      "name": "@sub_6F71D80@12",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -287,7 +287,7 @@
     {
       "start": 116858256,
       "end": 116858266,
-      "name": "sub_6F71D90",
+      "name": "_sub_6F71D90@4",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -297,7 +297,7 @@
     {
       "start": 116858272,
       "end": 116858285,
-      "name": "sub_6F71DA0",
+      "name": "_sub_6F71DA0@4",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -307,7 +307,7 @@
     {
       "start": 116858288,
       "end": 116858304,
-      "name": "sub_6F71DB0",
+      "name": "@sub_6F71DB0@12",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -317,7 +317,7 @@
     {
       "start": 116858304,
       "end": 116858317,
-      "name": "sub_6F71DC0",
+      "name": "@sub_6F71DC0@12",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -327,7 +327,7 @@
     {
       "start": 116858320,
       "end": 116858336,
-      "name": "sub_6F71DD0",
+      "name": "@sub_6F71DD0@12",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -337,7 +337,7 @@
     {
       "start": 116858336,
       "end": 116858357,
-      "name": "sub_6F71DE0",
+      "name": "@sub_6F71DE0@12",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -347,7 +347,7 @@
     {
       "start": 116858368,
       "end": 116858377,
-      "name": "sub_6F71E00",
+      "name": "_sub_6F71E00@4",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -357,7 +357,7 @@
     {
       "start": 116858384,
       "end": 116858396,
-      "name": "sub_6F71E10",
+      "name": "_sub_6F71E10@4",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -367,7 +367,7 @@
     {
       "start": 116858400,
       "end": 116858415,
-      "name": "sub_6F71E20",
+      "name": "@sub_6F71E20@12",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -377,7 +377,7 @@
     {
       "start": 116858416,
       "end": 116858428,
-      "name": "sub_6F71E30",
+      "name": "_sub_6F71E30@4",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -387,7 +387,7 @@
     {
       "start": 116858432,
       "end": 116858447,
-      "name": "sub_6F71E40",
+      "name": "_sub_6F71E40@4",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -397,7 +397,7 @@
     {
       "start": 116858448,
       "end": 116858466,
-      "name": "sub_6F71E50",
+      "name": "@sub_6F71E50@12",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -407,7 +407,7 @@
     {
       "start": 116858480,
       "end": 116858495,
-      "name": "sub_6F71E70",
+      "name": "@sub_6F71E70@12",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -417,7 +417,7 @@
     {
       "start": 116858496,
       "end": 116858514,
-      "name": "sub_6F71E80",
+      "name": "@sub_6F71E80@12",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -427,7 +427,7 @@
     {
       "start": 116858528,
       "end": 116858551,
-      "name": "sub_6F71EA0",
+      "name": "@sub_6F71EA0@12",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -437,7 +437,7 @@
     {
       "start": 116858560,
       "end": 116858571,
-      "name": "sub_6F71EC0",
+      "name": "@sub_6F71EC0@12",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -447,7 +447,7 @@
     {
       "start": 116858576,
       "end": 116858590,
-      "name": "sub_6F71ED0",
+      "name": "@sub_6F71ED0@12",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -457,7 +457,7 @@
     {
       "start": 116858592,
       "end": 116858611,
-      "name": "sub_6F71EE0",
+      "name": "@sub_6F71EE0@12",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -467,7 +467,7 @@
     {
       "start": 116858624,
       "end": 116858638,
-      "name": "sub_6F71F00",
+      "name": "@sub_6F71F00@12",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -477,7 +477,7 @@
     {
       "start": 116858640,
       "end": 116858657,
-      "name": "sub_6F71F10",
+      "name": "@sub_6F71F10@12",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -487,7 +487,7 @@
     {
       "start": 116858672,
       "end": 116858694,
-      "name": "sub_6F71F30",
+      "name": "@sub_6F71F30@12",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -497,7 +497,7 @@
     {
       "start": 116858704,
       "end": 116858723,
-      "name": "sub_6F71F50",
+      "name": "@sub_6F71F50@12",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -507,7 +507,7 @@
     {
       "start": 116858736,
       "end": 116858758,
-      "name": "sub_6F71F70",
+      "name": "@sub_6F71F70@12",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -517,7 +517,7 @@
     {
       "start": 116858768,
       "end": 116858795,
-      "name": "sub_6F71F90",
+      "name": "@sub_6F71F90@12",
       "thunk": false,
       "lib": false,
       "static": false,

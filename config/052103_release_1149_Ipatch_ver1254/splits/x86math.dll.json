@@ -1,21 +1,21 @@
 {
   "x86math.dll.obj": {
-    "_sub_6F71000": {
+    "_inv_sqrt_dynamic_init": {
       "address": 116854784,
       "size": 10,
       "scope": "static"
     },
-    "_sub_6F71010": {
+    "_inv_sqrt_build_table": {
       "address": 116854800,
       "size": 71,
       "scope": "static"
     },
-    "_sub_6F71060": {
+    "_inv_sqrt_register_atexit": {
       "address": 116854880,
       "size": 12,
       "scope": "static"
     },
-    "_sub_6F71070": {
+    "_inv_sqrt_atexit_thunk": {
       "address": 116854896,
       "size": 21,
       "scope": "static"
@@ -40,52 +40,52 @@
       "size": 121,
       "scope": "static"
     },
-    "_sub_6F711F0@12": {
+    "_x86MathEngine_inverse@12": {
       "address": 116855280,
       "size": 398,
       "scope": "static"
     },
-    "_sub_6F71380@16": {
+    "_x86MathEngine_general_inverse@16": {
       "address": 116855680,
       "size": 550,
       "scope": "static"
     },
-    "_sub_6F715B0@16": {
+    "_x86MathEngine_scale@16": {
       "address": 116856240,
       "size": 101,
       "scope": "static"
     },
-    "_sub_6F71620@8": {
+    "_x86MathEngine_det@8": {
       "address": 116856352,
       "size": 69,
       "scope": "static"
     },
-    "_sub_6F71670@16": {
+    "_x86MathEngine_mul_matrix@16": {
       "address": 116856432,
       "size": 116,
       "scope": "static"
     },
-    "_sub_6F716F0@16": {
+    "_x86MathEngine_mul_transform@16": {
       "address": 116856560,
       "size": 318,
       "scope": "static"
     },
-    "_sub_6F71830@16": {
+    "_x86MathEngine_transform_vector@16": {
       "address": 116856880,
       "size": 87,
       "scope": "static"
     },
-    "sub_6F71890": {
+    "_x86MathEngine_transform_point@16": {
       "address": 116856976,
       "size": 96,
       "scope": "static"
     },
-    "sub_6F718F0": {
+    "_x86MathEngine_transform_transpose@16": {
       "address": 116857072,
       "size": 87,
       "scope": "static"
     },
-    "sub_6F71950": {
+    "_x86MathEngine_inverse_transform@16": {
       "address": 116857168,
       "size": 96,
       "scope": "static"
@@ -100,137 +100,137 @@
       "size": 610,
       "scope": "static"
     },
-    "sub_6F71D60": {
+    "@sub_6F71D60@12": {
       "address": 116858208,
       "size": 9,
       "scope": "static"
     },
-    "sub_6F71D70": {
+    "_sub_6F71D70@4": {
       "address": 116858224,
       "size": 10,
       "scope": "static"
     },
-    "sub_6F71D80": {
+    "@sub_6F71D80@12": {
       "address": 116858240,
       "size": 13,
       "scope": "static"
     },
-    "sub_6F71D90": {
+    "_sub_6F71D90@4": {
       "address": 116858256,
       "size": 10,
       "scope": "static"
     },
-    "sub_6F71DA0": {
+    "_sub_6F71DA0@4": {
       "address": 116858272,
       "size": 13,
       "scope": "static"
     },
-    "sub_6F71DB0": {
+    "@sub_6F71DB0@12": {
       "address": 116858288,
       "size": 16,
       "scope": "static"
     },
-    "sub_6F71DC0": {
+    "@sub_6F71DC0@12": {
       "address": 116858304,
       "size": 13,
       "scope": "static"
     },
-    "sub_6F71DD0": {
+    "@sub_6F71DD0@12": {
       "address": 116858320,
       "size": 16,
       "scope": "static"
     },
-    "sub_6F71DE0": {
+    "@sub_6F71DE0@12": {
       "address": 116858336,
       "size": 21,
       "scope": "static"
     },
-    "sub_6F71E00": {
+    "_sub_6F71E00@4": {
       "address": 116858368,
       "size": 9,
       "scope": "static"
     },
-    "sub_6F71E10": {
+    "_sub_6F71E10@4": {
       "address": 116858384,
       "size": 12,
       "scope": "static"
     },
-    "sub_6F71E20": {
+    "@sub_6F71E20@12": {
       "address": 116858400,
       "size": 15,
       "scope": "static"
     },
-    "sub_6F71E30": {
+    "_sub_6F71E30@4": {
       "address": 116858416,
       "size": 12,
       "scope": "static"
     },
-    "sub_6F71E40": {
+    "_sub_6F71E40@4": {
       "address": 116858432,
       "size": 15,
       "scope": "static"
     },
-    "sub_6F71E50": {
+    "@sub_6F71E50@12": {
       "address": 116858448,
       "size": 18,
       "scope": "static"
     },
-    "sub_6F71E70": {
+    "@sub_6F71E70@12": {
       "address": 116858480,
       "size": 15,
       "scope": "static"
     },
-    "sub_6F71E80": {
+    "@sub_6F71E80@12": {
       "address": 116858496,
       "size": 18,
       "scope": "static"
     },
-    "sub_6F71EA0": {
+    "@sub_6F71EA0@12": {
       "address": 116858528,
       "size": 23,
       "scope": "static"
     },
-    "sub_6F71EC0": {
+    "@sub_6F71EC0@12": {
       "address": 116858560,
       "size": 11,
       "scope": "static"
     },
-    "sub_6F71ED0": {
+    "@sub_6F71ED0@12": {
       "address": 116858576,
       "size": 14,
       "scope": "static"
     },
-    "sub_6F71EE0": {
+    "@sub_6F71EE0@12": {
       "address": 116858592,
       "size": 19,
       "scope": "static"
     },
-    "sub_6F71F00": {
+    "@sub_6F71F00@12": {
       "address": 116858624,
       "size": 14,
       "scope": "static"
     },
-    "sub_6F71F10": {
+    "@sub_6F71F10@12": {
       "address": 116858640,
       "size": 17,
       "scope": "static"
     },
-    "sub_6F71F30": {
+    "@sub_6F71F30@12": {
       "address": 116858672,
       "size": 22,
       "scope": "static"
     },
-    "sub_6F71F50": {
+    "@sub_6F71F50@12": {
       "address": 116858704,
       "size": 19,
       "scope": "static"
     },
-    "sub_6F71F70": {
+    "@sub_6F71F70@12": {
       "address": 116858736,
       "size": 22,
       "scope": "static"
     },
-    "sub_6F71F90": {
+    "@sub_6F71F90@12": {
       "address": 116858768,
       "size": 27,
       "scope": "static"
